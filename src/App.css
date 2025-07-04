@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+
+
+/* Header specific styling to prevent content bleed-through */
+header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 100 !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+}
+
+/* Ensure header has solid background */
+header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+
+.header {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+}
+
+/* Prevent content from showing through header */
+main {
+  position: relative;
+  z-index: 1;
+}
+
+/* From Uiverse.io by ashish-yadv */ 
+.loader {
+  width: 60px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ball {
+  list-style: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.ball:nth-child(1) {
+  animation: bounce-1 2.1s ease-in-out infinite;
+}
+
+@keyframes bounce-1 {
+  50% {
+    transform: translateY(-18px);
+    background-color: aqua;
+  }
+}
+
+.ball:nth-child(2) {
+  animation: bounce-3 2.1s ease-in-out 0.3s infinite;
+}
+
+@keyframes bounce-2 {
+  50% {
+    transform: translateY(-18px);
+    background-color: aqua;
+  }
+}
+
+.ball:nth-child(3) {
+  animation: bounce-3 2.1s ease-in-out 0.6s infinite;
+}
+
+@keyframes bounce-3 {
+  50% {
+    transform: translateY(-18px);
+    background-color: aqua;
+  }
+}
+
+/* DO NOT override gradients, buttons, or images */
+/* Let Tailwind handle these naturally */
