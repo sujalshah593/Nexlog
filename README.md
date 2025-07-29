@@ -16,14 +16,17 @@ Welcome to **Codezy AI**, your intelligent AI-powered chatbot built using the **
 
 ## 🚀 Live Demo
 
-👉 [Try Codezy AI Online]((https://codezy-ai-6wui.vercel.app/))
+👉 [Try Codezy AI Online](https://codezy-ai-6wui.vercel.app/)
 
 *(Replace with your actual deployment link)*
 
 ## 📸 Screenshots
 
 ### 💬 Chat Interface  
-![Chat UI](./assets/demo.png)
+![Chat UI] <img width="1419" height="826" alt="image" src="https://github.com/user-attachments/assets/c31be79e-bb29-49f7-b047-50a5850ee820" />
+           <img width="1594" height="908" alt="image" src="https://github.com/user-attachments/assets/b59c656c-b6e8-4f69-a304-85f74e4aed2d" />
+           <img width="1598" height="905" alt="image" src="https://github.com/user-attachments/assets/776d32e7-fe07-43ef-971b-e41d4bfc7764" />
+           <img width="1596" height="906" alt="image" src="https://github.com/user-attachments/assets/a89c0dfb-1f8e-472d-abfa-557d20b51c1a" />
 
 ## 🛠️ Tech Stack
 
