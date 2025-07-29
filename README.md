@@ -16,7 +16,7 @@ Welcome to **Codezy AI**, your intelligent AI-powered chatbot built using the **
 
 ## 🚀 Live Demo
 
-👉 [Try Codezy AI Online]([https://your-live-site-url.com](https://codezy-ai-6wui.vercel.app/))
+👉 [Try Codezy AI Online]((https://codezy-ai-6wui.vercel.app/))
 
 *(Replace with your actual deployment link)*
 
@@ -37,7 +37,7 @@ Welcome to **Codezy AI**, your intelligent AI-powered chatbot built using the **
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/codezy-ai.git
+git clone (https://github.com/sujalshah593/Nexlog.git)
 cd codezy-ai
 ```
 
