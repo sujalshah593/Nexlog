@@ -23,10 +23,8 @@ Welcome to **Codezy AI**, your intelligent AI-powered chatbot built using the **
 ## 📸 Screenshots
 
 ### 💬 Chat Interface  
-<img width="1419" height="826" alt="image" src="https://github.com/user-attachments/assets/c31be79e-bb29-49f7-b047-50a5850ee820" />
-<img width="1594" height="908" alt="image" src="https://github.com/user-attachments/assets/b59c656c-b6e8-4f69-a304-85f74e4aed2d" />
-<img width="1598" height="905" alt="image" src="https://github.com/user-attachments/assets/776d32e7-fe07-43ef-971b-e41d4bfc7764" />
-<img width="1596" height="906" alt="image" src="https://github.com/user-attachments/assets/a89c0dfb-1f8e-472d-abfa-557d20b51c1a" />
+<img width="1569" height="902" alt="image" src="https://github.com/user-attachments/assets/0f691ab8-0329-4753-8cb4-e61d24f9eaca" />
+
 
 ## 🛠️ Tech Stack
 
@@ -128,4 +126,4 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 ## 👤 Author
 
 Made with ❤️ by **Sujal Shah**  
-GitHub: [@sujalshahdev](https://github.com/sujalshahdev)
+GitHub: [@sujalshahdev](https://github.com/sujalshah593)
