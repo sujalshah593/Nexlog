@@ -90,9 +90,9 @@ codezy-ai/
 ├── public/              # Static assets (icons, images)
 ├── src/
 │   ├── components/      # Reusable UI components
-│   ├── pages/           # Page routing (if using Next.js)
-│   ├── utils/           # API functions
-│   └── App.jsx          # Main App file
+│   ├── context/           # Page routing (if using Next.js)
+│   ├── data/           # API functions
+│   └── pages/          # Main App file
 ├── .env                 # Environment variables
 ├── package.json         # Project metadata
 └── README.md            # This file
